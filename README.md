@@ -74,6 +74,7 @@ Nest is [MIT licensed](LICENSE).
 
 # Personal notes
 
+- to start a new project `nest new nameIWant`
 - to generate a new module `nest g module nameIWant`
 - to generate a new service `nest g service nameIWant` or `nest g service nameIWant --no-spec` If I don't do test at this stage
 - to generate a new controller `nest g controller nameIWant` or `nest g controller nameIWant --no-spec` If I don't do test at this stage
